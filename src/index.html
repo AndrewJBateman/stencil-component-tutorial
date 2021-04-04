@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0" />
+    <title>Stencil Component Starter</title>
+
+    <script type="module" src="/build/stencil-component-tutorial.esm.js"></script>
+    <script nomodule src="/build/stencil-component-tutorial.js"></script>
+  </head>
+  <body>
+    <my-tabs active-tab="Tab2">
+      <my-tab name="Tab1">Tab One</my-tab>
+      <my-tab name="Tab2">Tab Two</my-tab>
+    </my-tabs>
+    <script>
+      function handleTabActivate(e) {
+        console.log(e.detail.name);
+      }
+      document.addEventListener('tabActivate', handleTabActivate);
+    </script>
+  </body>
+</html>
