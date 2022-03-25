@@ -1,12 +1,16 @@
 # :zap: Ionic Stencil Tutorial
 
-* Stencil component to study shadow css and create a simplle tab menu that highlights active tab
+* Stencil component to study shadow css and create a simple tab menu that highlights active tab
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-*** Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/stencil-component-tutorial?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/stencil-component-tutorial?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/stencil-component-tutorial?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/stencil-component-tutorial?style=plastic)
 
 ## :page_facing_up: Table of contents
 
-* [:zap: Ionic Stencil Tutorial](#zap-ionic-stencil-tutorial)
+* [:zap: Stencil Component Tutorial](#zap-stencil-component-tutorial)
   * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
   * [:books: General info](#books-general-info)
   * [:camera: Screenshots](#camera-screenshots)
@@ -17,6 +21,7 @@
   * [:cool: Features](#cool-features)
   * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -83,6 +88,10 @@ For more info on how to use webpagetest check out [this article](https://zoompf.
 * [Stencil documentation](https://stenciljs.com/docs/my-first-component)
 * [Carl Rippon, StencilJS fundamentals](https://www.youtube.com/watch?v=SCB3X2ApYWc)
 
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
